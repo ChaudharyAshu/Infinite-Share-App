@@ -36,7 +36,7 @@ public class InfiniteShareApplication {
 				exception.printStackTrace();
 			}
 
-			String url="http://"+ip+":8585/mySpace";
+			String url="http://"+ip+":8585/infiniteShare";
 			try {
 				Runtime runtime=Runtime.getRuntime();
 				runtime.exec("rundll32 url.dll,FileProtocolHandler "+url );

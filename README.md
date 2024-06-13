@@ -1,5 +1,5 @@
-# My-Space-App
-My Space is an open source solution to the problem of sharing data across our multiple devices.
+# Infinite-Share-App
+Infinite Share is an open source solution to the problem of sharing data across our multiple devices.
 
 It uses Springboot Rest APIs to tarnsfer data.
 
@@ -13,7 +13,7 @@ It uses Springboot Rest APIs to tarnsfer data.
   <li>Scan the QR code to access page on any other device</li>
   <li>Click on "Choose File" button and select all you want</li>
   <li>Hit Upload button</li>
-  <li>Your file will be saved in a folder "My Space\Received" in the same folder as JRE</li>
+  <li>Your file will be saved in a folder "Infinite Share\Received" in the same folder as JRE</li>
 </ul>
 <h5 >->Steps to share files in network</h5>
 <ul>
